@@ -1,8 +1,4 @@
 
-#The Libraries I used
-###The libraries are vital for reading the data frame and using numpy arrays in the model.
-###It is also vital to have the correct prediction model
-```
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -19,4 +15,4 @@ from sklearn.preprocessing import MinMaxScaler
 import xgboost
 
 %matplotlib 
-```
+
